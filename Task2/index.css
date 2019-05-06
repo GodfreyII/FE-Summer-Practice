@@ -1,0 +1,30 @@
+
+.red {
+  width: 200px;
+  height: 200px;
+  background: #900; 
+  display: block;
+}
+
+.green {
+  width: 200px;
+  height: 200px;  
+  background: #090;
+  display: block;	
+}
+
+.blue {
+  width: 200px; 
+  height: 400px;
+  background: #009; 
+  display: block;
+  position: relative;
+  left: 200px;
+  top: -400px;
+  float: left;
+}
+.dashboard {
+	display: block;
+	position: absolute;
+	margin-left: 10px;
+}
